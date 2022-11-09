@@ -3,5 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/BvChainScan/blockscout" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/BvScan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/blockscout" vcs="Git" />
   </component>
 </project>
